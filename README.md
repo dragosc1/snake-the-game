@@ -1,6 +1,6 @@
 # snake-the-game
 I've created a simple version of snake using c++
-Controls:
+\nControls:
 w - move forward
 s - move backward
 a - move leftward
