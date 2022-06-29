@@ -6,4 +6,4 @@ w - move forward <br>
 a - move leftward <br>
 s - move backward <br>
 d - move rightward <br>
-!(https://imgur.com/a/EVh7r62)
+![Alt Text](https://imgur.com/a/EVh7r62)
