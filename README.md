@@ -6,4 +6,4 @@ w - move forward <br>
 a - move leftward <br>
 s - move backward <br>
 d - move rightward <br>
-![game]([https://myoctocat.com/assets/images/base-octocat.svg](https://imgur.com/vptBFeu))
+![game](https://imgur.com/a/EVh7r62)
