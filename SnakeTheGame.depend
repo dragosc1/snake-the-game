@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656506669 source:c:\users\drago\documents\snakethegame\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<map>
+
